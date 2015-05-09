@@ -4,6 +4,28 @@
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
 
+# Basic packages
 meteor-platform
-autopublish
-insecure
+iron:router
+twbs:bootstrap
+fourseven:scss
+tap:i18n
+
+# Account
+accounts-base
+accounts-ui
+alanning:roles
+accounts-password
+
+# Plugins
+jquery
+sacha:spin
+underscore
+http
+email
+natestrauser:animate-css
+msavin:mongol
+praxie:flag-sprites
+zimme:iron-router-active
+amplify
+
