@@ -2,7 +2,7 @@
     "use strict";
 
     Router.route('/about', {
-        name: 'about'
+        name: 'aboutPage'
     });
 
 })();

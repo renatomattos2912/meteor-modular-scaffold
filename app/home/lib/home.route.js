@@ -2,7 +2,7 @@
     "use strict";
 
     Router.route('/home', {
-        name: 'home'
+        name: 'homePage'
     });
 
 })();

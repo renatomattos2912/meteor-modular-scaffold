@@ -1,5 +1,5 @@
 (function() {
     "use strict";
 
-    console.log('core server');
+    console.log('core - server');
 })();

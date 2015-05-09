@@ -2,7 +2,7 @@
     "use strict";
 
     Router.route('/help', {
-        name: 'help'
+        name: 'helpPage'
     });
 
 })();
